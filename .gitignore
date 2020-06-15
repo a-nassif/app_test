@@ -207,9 +207,4 @@ fabric.properties
 .idea/inspectionProfiles/
 .idea/misc.xml
 .idea/modules.xml
-Dockerfile
-app_test/
-docker-compose.yml
-main/
-manage.py
-requirements.txt
+.idea/vcs.xml
